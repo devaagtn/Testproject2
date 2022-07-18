@@ -14,6 +14,7 @@ public class SortingMap {
         unsortMap.put(50, "j");
         unsortMap.put(2, "m");
         unsortMap.put(9, "f");
+        unsortMap.put(14,"l");
 
         System.out.println("Unsort Map......");
         printMap(unsortMap);
